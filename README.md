@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theufeitosa
 - 👀 I’m interested in executar C# e java  
-- 🌱 I’m currently learnin programação C# eJava.
-- 💞️ Estou procurando colabora r em C#, Java,Python.
+- 🌱 I’m curently learin programação C# eJava.
+- 💞️ Estou procurando colaborar em C#, Java,Python.
 - - 📫 Como me alcançar; estou no Linkedin como https://www.linkedin.com/in/matheus-feitosa-207aa11a9 .
 - 
 <!---
